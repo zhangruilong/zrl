@@ -29,7 +29,7 @@
 				id="loginForm">
 				<div class="control-group normal_text">
 					<h3>
-						<img src="static/login/logo1.png" alt="Logo" />
+						<img src="static/login/logo.png" alt="Logo" />
 					</h3>
 				</div>
 				<div class="control-group">
